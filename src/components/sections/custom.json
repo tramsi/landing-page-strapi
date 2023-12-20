@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_sections_customs",
+  "info": {
+    "displayName": "Custom",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "customField",
+      "options": {
+        "output": "HTML",
+        "preset": "standard"
+      },
+      "customField": "plugin::ckeditor.CKEditor"
+    }
+  }
+}
